@@ -1,0 +1,10 @@
+Variable,Variable Descritption,Type of Variable,Sample Values
+AGE,Age of customer when policy is bought,Integer,"18, 20, 21….."
+EDUCATION,Education of customer ,Character,"higher_secondary, graduate_plus"
+OCC,"Occupation of customer (professional are Doctors, CA), business is Self-employed",Character,"business, salaried_govt, professional"
+PINCODE,Customer residence pincode,Character,6 digit standard indian pincode
+PROD_CATEGORY,"Product Type (ulip - Market linked insurance policy, trad - non-market linked policy, term - term product)",Character,"Ulip, trad"
+INCOME_SEGMENT,Customer Income segment,Integer,"1 to 10; 1 - lower income segment, 10 - higher income segment; -99 - Missing"
+PROSPERITY_INDEX_BAND,Prosperous location,Character,Low - Low prosperous location; Very High - High prosperous location
+QUALITY_SCORE_BAND,Customer Quality,Integer,"1 to 6; 1 - lowest quality, 6 - highest quality"
+ISSUANCE_MONTH,Policy issuance month,date,"01-04-2021, 30-06-2021….."
